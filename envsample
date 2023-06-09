@@ -1,0 +1,2 @@
+PORT=3000
+MONGO_URL="mongodb+srv://dvlprkrishna:<password>@cluster0.zx98vvf.mongodb.net/<databasename>?retryWrites=true&w=majority"
